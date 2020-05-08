@@ -1,8 +1,8 @@
 {
-  "name": "@mo-demo/cli-shared-utils",
+  "name": "wm-cli-shared-utils",
   "version": "0.0.2-alpha.0",
   "description": "> TODO: description",
-  "author": "wangmin <wangmin.0813@bytedance.com>",
+  "author": "wangmin",
   "homepage": "",
   "license": "ISC",
   "main": "lib/cli-shared-utils.js",
@@ -23,5 +23,5 @@
     "chalk": "^4.0.0",
     "semver": "^7.3.2"
   },
-  "gitHead": "971f57d4bdf2f62877b59f498ee8976724718277"
+  "gitHead": "f0cfdd035e414fd9adbf6276dbe6072436e1cce1"
 }
